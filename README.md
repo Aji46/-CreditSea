@@ -67,6 +67,10 @@ CreditSea/
 Check out a demo of CreditSea in action:
 
 
+
+https://github.com/user-attachments/assets/21dd61c3-d84b-4b2e-b0c5-f3765e6116cc
+
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
